@@ -2,6 +2,10 @@
 Nama : Nitiya Rihadatul 'Aisy
 Npm : 2108107010003
 
+File dengan ekstensi **.py** adalah file skrip Python yang berisi kode program Python yang dapat dieksekusi.
+
+file dengan ekstensi **.ipynb** adalah Notebook Jupyter, yang merupakan dokumen interaktif yang menggabungkan kode, teks naratif, visualisasi, dan elemen-elemen lainnya yang sudah dilakukan. 
+
 # Untuk menjalankan kode anda perlu memerhatikan beberapa hal :
 
 Jika anda ingin jalan kode di **Di Google Colab**, Anda dapat mengunggah dataset langsung ke sesi Colab menggunakan tombol "Upload to session storage". Setelah diunggah, Anda dapat membaca dataset menggunakan kode Python seperti yang biasa Anda lakukan.
