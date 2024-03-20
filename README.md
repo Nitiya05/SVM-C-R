@@ -17,15 +17,16 @@ Atau berikut langkah-langkah umum untuk menggunakan dataset di VSCode:
 1. untuk dataset yang digunakan pada klasifikasi adalah data.csv atau bisa di akses pada  _https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data_
   Dataset ini merupakan kumpulan data yang digunakan untuk menganalisis kanker payudara. Data tersebut diperoleh dari gambar-gambar digital fine needle aspirate (FNA) dari massa payudara. Fitur-fitur dalam dataset ini menggambarkan karakteristik inti sel yang terdapat dalam gambar-gambar tersebut.
 
-Setiap inti sel direpresentasikan oleh sepuluh fitur yang diukur dalam tiga dimensi. Fitur-fitur ini mencakup berbagai ukuran dan sifat-sifat inti sel, seperti ukuran, tekstur, keliling, luas, kehalusan, kekompakan, kecembungan, titik cekung, simetri, dan dimensi fraktal.
+  Setiap inti sel direpresentasikan oleh sepuluh fitur yang diukur dalam tiga dimensi. Fitur-fitur ini mencakup berbagai ukuran dan sifat-sifat inti sel, seperti ukuran, tekstur, keliling, luas, kehalusan, kekompakan, kecembungan, titik cekung, simetri, dan dimensi fraktal.
 
-Dataset ini terdiri dari 30 fitur yang dihitung berdasarkan rata-rata, standar error, dan nilai "terburuk" dari fitur-fitur tersebut. Sebagai contoh, fitur ke-3 adalah Mean Radius, fitur ke-13 adalah Radius SE (standar error), dan fitur ke-23 adalah Worst Radius.
+  Dataset ini terdiri dari 30 fitur yang dihitung berdasarkan rata-rata, standar error, dan nilai "terburuk" dari fitur-fitur tersebut. Sebagai contoh, fitur ke-3 adalah Mean Radius, fitur ke-13 adalah Radius SE (standar error), dan fitur ke-23 adalah Worst Radius.
 
-Dataset ini tidak memiliki nilai atribut yang hilang, dan distribusi kelasnya terdiri dari 357 kasus jinak dan 212 kasus ganas. **Tujuan dari penggunaan dataset ini adalah untuk menganalisis dan memprediksi apakah sebuah tumor payudara bersifat ganas atau jinak berdasarkan fitur-fitur yang diukur dari gambar FNA.**
+  Dataset ini tidak memiliki nilai atribut yang hilang, dan distribusi kelasnya terdiri dari 357 kasus jinak dan 212 kasus ganas. **Tujuan dari penggunaan dataset ini adalah untuk menganalisis dan memprediksi apakah sebuah tumor payudara bersifat ganas atau jinak berdasarkan fitur-fitur yang diukur dari gambar FNA.**
 
 
 2. untuk dataset yang digunakan pada regresi  adalah diamons.csv atau bisa di akses pada  [_https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data_](https://www.kaggle.com/code/heeraldedhia/regression-on-diamonds-dataset-95-score/input)https://www.kaggle.com/code/heeraldedhia/regression-on-diamonds-dataset-95-score/input
    Dataset ini merupakan kumpulan data tentang berlian yang memiliki beberapa kolom sebagai berikut:
+   
 1. **price**: Harga berlian dalam dolar AS ($326 hingga $18,823).
 2. **carat**: Berat dari berlian tersebut dalam karat (0.2 hingga 5.01).
 3. **cut**: Kualitas dari potongan berlian (Fair, Good, Very Good, Premium, Ideal).
