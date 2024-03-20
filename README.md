@@ -37,6 +37,7 @@ Atau berikut langkah-langkah umum untuk menggunakan dataset di VSCode:
 - **z**: Kedalaman berlian dalam milimeter (0 hingga 31.8).
 - **depth**: Persentase kedalaman total = z / rata-rata(x, y) = 2 * z / (x + y) (43 hingga 79).
 - **table**: Lebar dari bagian atas berlian relatif terhadap titik terlebar (43 hingga 95).
+  
  **Tujuan dar penggunaan dataset ini adalah untuk menganalisis atau memprediksi harga berlian berdasarkan Karat yang dimilikinya.**
 
 
